@@ -1,0 +1,122 @@
+.length-character-input-name-product {
+  right: 15px;
+  top: 6px;
+}
+.length-character-input-name-product-new {
+  right: 25px;
+  top: 6px;
+}
+.input-name-product {
+  padding-right: 80px!important;
+}
+.bg-none {
+  background: none;
+  background-color: transparent !important;
+}
+.button-search-name-category {
+  left: 15px;
+  top: 6px;
+}
+.input-name-category {
+  padding-left: 50px!important;
+}
+.mh-100 {
+  min-height: 100vh;
+}
+.div-select-category {
+  overflow-x: auto;
+}
+.div-category-select {
+  overflow-x: auto;
+}
+.t-0 {
+  top: 0;
+}
+.l-0 {
+  left: 0;
+}
+.b-0 {
+  bottom: 0;
+}
+.r-0 {
+  right: 0;
+}
+.submenu-right-new-product {
+  border-left: 2px solid #c9c9c9;
+  color: #000;
+}
+.submenu-right-new-product:hover {
+  color: #ff3d1f;
+}
+.div-link-menu-right {
+  top: 50%;
+  transform: translateY(-50%);
+}
+.submenu-right-new-product.active {
+  border-left: 2px solid #ff3d1f;
+  border-bottom: 0!important;
+  color: #ff3d1f;
+}
+.bg-main {
+  background: rgb(235, 235, 235);
+}
+.bg-white-box-shadow {
+  box-shadow: 0px 0px 5px #939393;
+}
+.textarea-description {
+  resize: none;
+}
+.font-size-0-8em {
+  font-size: .8em;
+}
+.div-btn-type-product {
+  border: 1px dashed #0a2bd0;
+}
+.div-btn-type-product span {
+  color: #0a2bd0!important;
+}
+.bg-input-show {
+  background: rgb(234, 234, 234);
+}
+.input-photo-product {
+  opacity: 0;
+  z-index: -1;
+}
+.label-photo-input {
+  width: 100px;
+  height: 100px;
+}
+.category-parent,
+.category-child-1,
+.category-child-2 {
+  max-height: 50vh;
+  overflow-y: scroll;
+}
+.category-parent button.active,
+.category-child-1 button.active,
+.category-child-2 button.active {
+  color: #fff!important;
+  background: #dc3545!important;
+}
+.category-parent button:hover,
+.category-child-1 button:hover,
+.category-child-2 button:hover {
+  color: #fff!important;
+  background: #dc3545!important;
+}
+
+.text-align-right {
+  text-align: right;  
+}
+
+@media only screen and (max-width: 767px) {
+  .div-submmenu-go-to-internal {
+    display: none;
+  }
+  .text-align-right {
+    text-align: left!important;
+  }
+  .div-category-select {
+    min-width: 640px;
+  }
+}

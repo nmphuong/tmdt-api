@@ -1,0 +1,22 @@
+#lst_image_product::-webkit-scrollbar {
+  display: none!important;
+}
+.lst-img-child {
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+#image_avtar_product {
+  max-height: 400px;
+}
+#lst_image_product {
+  max-height: 100px;
+  overflow-x: auto;
+}
+.start-ratting {
+  font-size: 1em;
+  color: #ffe300;
+}
+.bg-price {
+  background-color: #d3d3d3;
+}

@@ -1,0 +1,13 @@
+.input-search {
+  border-radius: 0;
+}
+.search-name-sku {
+  border-radius: 3px;
+  overflow: hidden;
+}
+.input-change-border {
+  border: 1px solid #ced4da;
+}
+.nav-link-step {
+  padding-left: 15px!important;
+}

@@ -1,0 +1,45 @@
+.height-card-bank-header {
+  min-height: 70px;
+}
+.height-card-bank-body {
+  min-height: 100px;
+}
+.card-bank {
+  overflow: hidden;
+  -webkit-box-shadow: 0 0.2rem 0.4rem rgb(0 0 0 / 9%);
+  box-shadow: 0 0.2rem 0.4rem rgb(0 0 0 / 9%); 
+  cursor: pointer;
+}
+.icon-bank {
+  width: 50px;
+  height: 50px;
+  background: #e5e5e5;
+  font-size: 1.6em;
+}
+.number-bank-card {
+  font-size: 2em;
+}
+.name-bank-card {
+  font-size: 1em;
+}
+.default-bg {
+  background: #e3f8f5;
+  font-size: .8em;
+}
+.add-card {
+  border: 1px dashed #acacac;
+  cursor: pointer;
+}
+.text-add-card-bank {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.card-bank-elm-hv:hover {
+  -webkit-box-shadow: 0 0.2rem 0.4rem rgb(0 0 0 / 40%);
+  box-shadow: 0 0.2rem 0.4rem rgb(0 0 0 / 40%); 
+}
+.title-card-x-bank{
+  font-size: 0.7em;
+  color: #acacac;
+}
